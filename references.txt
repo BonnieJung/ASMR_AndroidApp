@@ -1,0 +1,38 @@
+Nature ASMR(study, sleep, meditation)
+
+
+Reference
+
+-rain : 
+-https://www.youtube.com/watch?v=HbVYuPogyP0
+-http://theapopkavoice.com/rain-brings-drought-relief-yet-rainfall-deficit-persists/
+
+-ocean : 
+-https://www.youtube.com/watch?v=fi5Uwwk5kog
+-http://meditationroom.org/free-nature-sounds/morning-seashore-audio/
+
+-forest : 
+-https://www.youtube.com/watch?v=-nNDdVUr2O8
+-http://www.wbcsd.org/var/site/storage/images/projects/forest-solutions-group/news/wbcsd-s-forest-solutions-group-s-kpis-highlight-the-sector-s-key-role-in-global-sustainability/11923-2-eng-GB/WBCSD-s-Forest-Solutions-Group-s-KPIs-highlight-the-sector-s-key-role-in-global-sustainability_i770.jpg
+
+
+-thunder : 
+-https://www.youtube.com/watch?v=fFqKNOg2Glc
+-https://www.thinglink.com/scene/781174610430263298
+
+
+-fire : 
+-https://www.youtube.com/watch?v=sT1gkiBo5lU
+-http://www.carefreecommunities.com/blog/kindling-for-your-campfire/
+
+
+-bamboo flute: 
+-https://www.youtube.com/watch?v=lEqhWC0R38A
+-http://all-free-download.com/free-photos/download/dense-bamboo-forest-picture_165909.html
+
+
+
+color(default : #3F51B5 / #303F9F / #FF4081 )
+beige: #f4bf42
+brown: #f48c41
+warm pink(for accent): #f44152

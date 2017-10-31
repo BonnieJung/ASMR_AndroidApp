@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">For Your Peace A.S.M.R.</string>
+    <string name="Rain">Rain</string>
+    <string name="Ocean">Ocean</string>
+    <string name="Forest">Forest</string>
+    <string name="Thunder">Thunder</string>
+    <string name="Fire">Fire</string>
+    <string name="BambooFlute">Bamboo</string>
+    <string name="About">About</string>
+    <string name="GoBack">Go Back</string>
+    <string name="YouAreListeningTo">You Are(Were) In The Zone Of...</string>
+    <string name="Whatisasmr">What Is A.S.M.R?</string>
+    <string name="AsmrDesc">Autonomous Sensory Meridian Response. It is a term for an experience characterized by a static-like or tingling sensation on the skin that typically begins on the scalp and moves down the back of the neck and upper spine when listening to a certain sound.
+        By listening to these nature sound, you can expect some benefit of A.S.M.R!</string>
+    <string name="Feedback">Feedback to Bonnie!</string>
+    <string name="FeedbackDetail">(Email will be sent when you click the envelope icon)</string>
+    <string name="Developer">Developer : Bonnie Jung</string>
+    <string name="AboutDeveloper">She likes listening to nature sound for meditation!</string>
+    <string name="HowtoUse">Click button to listen to each sound(Other buttons are disabled until you pause). To pause, click the current button again, please.</string>
+    <string name="go_back">Go Back</string>
+
+
+</resources>
